@@ -8,5 +8,5 @@ O jogo possui função de salvar o jogo.
 
 
 
-![alt text](<img width="298" height="139" alt="imagem" src="https://github.com/user-attachments/assets/56f17e19-6c78-4ee1-b9c8-5a1546a993cd" />)
+
 
